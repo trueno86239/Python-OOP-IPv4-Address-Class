@@ -1,2 +1,3 @@
 # Python-OOP-IPv4-Address-Class
-A Python OOP class for an IPv4 address (no libraries used)
+EN - A Python OOP class for an IPv4 address (no libraries used)
+CZ - Python OOP třída, vytvořená pro IPv4 adresu, bez použití knihoven
